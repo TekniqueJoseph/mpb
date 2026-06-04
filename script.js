@@ -1,1 +1,1 @@
-document.querySelector('body').style.background = 'darkgray';
+document.querySelector('body').style.background = 'lightgray';
